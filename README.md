@@ -45,7 +45,7 @@ As Producer / Project Manager, I am responsible for:
 - [x] [Game Brief](docs/01-game-brief.md)
 - [x] [Production Roadmap](docs/02-production-roadmap.md)
 - [ ] Prioritized Product Backlog
-- [ ] Risk and Dependency Register
+- [x] [Risk and Dependency Register](docs/03-risk-and-dependency-register.md)
 - [ ] QA and Playtesting Plan
 - [ ] Release Readiness Checklist
 - [ ] Production Retrospective
