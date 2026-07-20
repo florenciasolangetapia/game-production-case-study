@@ -40,18 +40,16 @@ As Producer / Project Manager, I am responsible for:
 - Organizing playtesting and release-readiness activities
 - Keeping project decisions visible and documented
 
-## Case Study Deliverables
+## Case Study Documentation
 
-This repository will include:
-
-- Game and production brief
-- Milestone roadmap
-- Prioritized backlog
-- Risk and dependency register
-- QA and playtesting plan
-- Release-readiness checklist
-- Production retrospective
+- [x] [Game Brief](docs/01-game-brief.md)
+- [x] [Production Roadmap](docs/02-production-roadmap.md)
+- [ ] Prioritized Product Backlog
+- [ ] Risk and Dependency Register
+- [ ] QA and Playtesting Plan
+- [ ] Release Readiness Checklist
+- [ ] Production Retrospective
 
 ## Current Status
 
-**Pre-production:** project framing and milestone planning.
+**Pre-production:** project framing, scope definition, and milestone planning.
