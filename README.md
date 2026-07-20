@@ -46,7 +46,7 @@ As Producer / Project Manager, I am responsible for:
 - [x] [Production Roadmap](docs/02-production-roadmap.md)
 - [x] [Prioritized Product Backlog](docs/04-prioritized-product-backlog.md)
 - [x] [Risk and Dependency Register](docs/03-risk-and-dependency-register.md)
-- [ ] QA and Playtesting Plan
+- [x] [QA and Playtesting Plan](docs/05-qa-and-playtesting-plan.md)
 - [ ] Release Readiness Checklist
 - [ ] Production Retrospective
 
