@@ -1,2 +1,2 @@
-# game-production-case-study
-A practical game production case study covering planning, milestones, risks, QA, and release readiness.
+# Game Production Case Study
+A hands-on production case study for a small narrative game, from pre-production to release.
